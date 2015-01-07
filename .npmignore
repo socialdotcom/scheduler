@@ -1,0 +1,6 @@
+.*
+*.log
+bower.json
+gulpfile.js
+index.html
+test.js

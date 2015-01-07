@@ -1,0 +1,30 @@
+{
+  "name": "socialdotcom-scheduler",
+  "version": "0.1.0",
+  "description": "scheduler with many other use cases",
+  "main": "scheduler.js",
+  "scripts": {
+    "test": "grunt karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/socialdotcom/scheduler.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "scheduler",
+    "socialdotcom"
+  ],
+  "author": "Social.com",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/socialdotcom/scheduler/issues"
+  },
+  "homepage": "https://github.com/socialdotcom/scheduler",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "jshint-stylish": "^1.0.0"
+  }
+}

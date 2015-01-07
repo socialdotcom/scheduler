@@ -1,0 +1,31 @@
+{
+  "name": "socialdotcom-scheduler",
+  "version": "0.1.0",
+  "homepage": "https://github.com/socialdotcom/scheduler",
+  "authors": [
+    "Social.com"
+  ],
+  "contributors": [
+    "Alex Vernacchia <avernacchia@salesforce.com>"
+  ],
+  "description": "scheduler with many other use cases",
+  "main": "scheduler.js",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "scheduler",
+    "socialdotcom"
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "index.html",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.8"
+  }
+}

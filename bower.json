@@ -20,6 +20,7 @@
   "ignore": [
     "**/.*",
     "bower_components",
+    "gulp"
     "index.html",
     "node_modules",
     "test",

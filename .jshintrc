@@ -11,7 +11,7 @@
   "laxbreak": true,
   "laxcomma": true,
   "newcap": true,
-  "node": false,
+  "node": true,
   "shadow": false,
   "strict": true,
   "undef": true,

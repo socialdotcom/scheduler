@@ -1,4 +1,4 @@
-#Social.com's Scheduler
+#Social.com's Scheduler (WIP)
 
 Here is a scheduler from us, for you. Enjoy. Will be rough at the start, but we'll
 get there. The rest is coming soon.
